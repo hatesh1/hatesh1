@@ -64,7 +64,9 @@
   <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="45" style="vertical-align: middle; margin: 5px;" />
+ <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="45" style="vertical-align: middle; margin: 5px;" />
+
+
 </p>
 <h4 align="left">Other Skills:</h4>
 <p>
