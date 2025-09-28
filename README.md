@@ -100,9 +100,13 @@
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=hatesh1&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hatesh1&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/hatesh1" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @hatesh1" /></a>
-</p>
+
+
+
+
+
+
+
 
 
 
