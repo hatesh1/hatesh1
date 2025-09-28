@@ -1,3 +1,8 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hatesh1&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/hatesh1" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @hatesh1" /></a>
+</p>
+<img src="https://github.com/hatesh1/hatesh1/blob/main/Profile-banner.gif?raw=true" alt="Profile Banner" width="1024"/>
+
 <h1 align="center">Hi 👋, I'm Hatesh Lakhani!</h1>
 
 <h3 align="center">Software Engineer | Java & MySQL | Learning Full Stack Development | Passionate about building impactful web apps</h3>
